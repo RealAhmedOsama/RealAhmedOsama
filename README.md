@@ -14,7 +14,7 @@
   <a href="https://x.com/itsAhmedOsama"><img src="https://img.shields.io/badge/X-0B1324?style=for-the-badge&logo=x&logoColor=white" alt="X" height="28"></a>
   <a href="https://www.facebook.com/itsAhmedOsama/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"></a>
   <a href="https://www.instagram.com/realahmedosama/"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"></a>
-  <a href="mailto:me@ahmedosama.com"><img src="https://img.shields.io/badge/Email%20Me-FF6B65?style=for-the-badge" alt="Email Ahmed Osama" height="28"></a>
+  <a href="mailto:me@ahmedosama.com"><img src="assets/email-badge.svg" alt="Email Ahmed Osama" height="28"></a>
 </div>
 
 ---
@@ -107,5 +107,5 @@ I care about maintainability, permissions, reliable data, and clear evidence beh
 <div align="center">
   <h3>Let's build something useful.</h3>
   <p>Software projects · Business automation · Technical collaboration</p>
-  <a href="mailto:me@ahmedosama.com"><img src="https://img.shields.io/badge/me%40ahmedosama.com-FF6B65?style=for-the-badge" alt="me@ahmedosama.com" height="28"></a>
+  <a href="mailto:me@ahmedosama.com"><img src="assets/email-address-badge.svg" alt="me@ahmedosama.com" height="28"></a>
 </div>
