@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114" height="28" viewBox="0 0 114 28" role="img" aria-label="EMAIL ME">
+<title>EMAIL ME</title>
+<rect width="114" height="28" fill="#FF6B65"/>
+<g fill="none" stroke="#fff" stroke-width="1.6" stroke-linejoin="round">
+<rect x="10" y="8" width="16" height="12" rx="1"/>
+<path d="M10 8l8 6 8-6"/>
+</g>
+<text x="34" y="18" fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" letter-spacing="1">EMAIL ME</text>
+</svg>
