@@ -10,7 +10,7 @@
   <p><strong>SaaS &amp; Business Automation · AI Developer Tools</strong></p>
   <p>Turning business workflows into practical web and desktop software.<br>Based in Cairo, Egypt.</p>
 
-  <a href="https://www.linkedin.com/in/realahmedosama/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"></a>
+  <a href="https://www.linkedin.com/in/realahmedosama/"><img src="assets/linkedin-badge.svg" alt="LinkedIn" height="28"></a>
   <a href="https://x.com/itsAhmedOsama"><img src="https://img.shields.io/badge/X-0B1324?style=for-the-badge&logo=x&logoColor=white" alt="X" height="28"></a>
   <a href="https://www.facebook.com/itsAhmedOsama/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"></a>
   <a href="https://www.instagram.com/realahmedosama/"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"></a>
